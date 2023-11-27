@@ -4,3 +4,18 @@ git commit -m ""
 git remote add origin https://github.com/AliakseiPV/git-hw.git
 git pull origin main
 git push -u origin main
+
+---------------------------------------------------------------
+homework 2
+1.
+	git log
+	git diff aa331ddc c86f6737 .\README.md
+2.
+	git revert commit
+3.
+	1. git reset --soft 7a72e98b
+		 git restore --staged .\README.md
+	2. git reset  5e7a4a05
+		 git restore .\README.md
+	3. 
+
